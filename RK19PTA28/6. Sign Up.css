@@ -1,0 +1,59 @@
+body
+{
+background:url("construction 2.jpg"); 
+background-size:cover; 
+border:groove grey; 
+border-width: 40px;
+text-align:center; 
+font-family: Maiandra GD;
+}
+.signup
+{
+position:absolute;
+top:20%;
+left:40%;
+transform: translate(-50%, -50%;);
+width:350px;
+height:450px;
+box-sizing: border-box;
+background:rgba(0,0,0,0.5);
+border-radius:10%;
+}
+h1{color:lime;}
+#p
+{ color:yellow;}
+#p1
+{color:yellow;}
+#p2
+{color:yellow;}
+#p3
+{color:yellow;}
+#b
+{
+background:grey;
+color:black;
+box-sizing: border-box;
+border-radius:10px;
+font-size:25px;
+border:double black;
+border-width:5px;
+}
+.photo
+{
+width: 100px;
+height: 100px;
+border-radius:50%;
+position: absolute;
+top: -50px;
+left: 125px;
+}
+#b1
+{
+background:grey;
+color:black;
+box-sizing: border-box;
+border-radius:10px;
+font-size:25px;
+border:double black;
+border-width:5px;
+}

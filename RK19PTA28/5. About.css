@@ -1,0 +1,55 @@
+body
+{
+background:url("construction 18.jpg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+border:groove teal; 
+border-width: 20px;
+}
+
+#p1
+{
+font-size:50px;
+text-align:center;
+background:rgba(0,0,0,0.9);
+border-radius:10px;
+color:orange;
+}
+#p2
+{
+background:rgba(0,80,0,0.8);
+border-radius:6px;
+font-size:30px;
+}
+#p3
+{
+background:rgba(0,80,80,0.8);
+border-radius:6px;
+font-size:30px;
+}
+#p4
+{
+background:rgba(0,80,80,0.8);
+border-radius:6px;
+font-size:30px;
+}
+#u1
+{
+background:rgba(0,80,0,0.8);
+border-radius:6px;
+font-size:30px;
+}
+#u2
+{
+background:rgba(0,80,0,0.8);
+border-radius:6px;
+font-size:30px;
+}
+#b
+{
+background:rgba(50,0,0,0.9);
+border-radius:20px;
+border:double coral;
+font-size:28px;
+}
+

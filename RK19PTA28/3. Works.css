@@ -1,0 +1,51 @@
+body
+{
+background:url("construction 1.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+border:groove orange; 
+border-width: 20px;
+}
+#p
+{
+font-size:50px;
+text-align:center;
+background:rgba(0,0,0,0.9);
+border-radius:10px;
+color:orange;
+}
+#p1
+{
+background:rgba(45,0,0,0.8);
+border-radius:6px;
+font-size:32px;
+color:teal;
+}
+#p2
+{
+background:rgba(0,80,0,0.7);
+border-radius:6px;
+font-size:28px;
+}
+#p3
+{
+background:rgba(45,0,0,0.8);
+border-radius:6px;
+font-size:32px;
+color:teal;
+}
+#p4
+{
+background:rgba(0,80,0,0.7);
+border-radius:6px;
+font-size:28px;
+}
+#b
+{
+background:rgba(50,0,0,0.9);
+border-radius:20px;
+border:double coral;
+font-size:28px;
+}
+

@@ -1,0 +1,27 @@
+body{border:groove green; border-width:20px; padding:10px; background:url("construction 16.jpg")}
+#p1
+{
+font-size:50px;
+text-align:center;
+background:rgba(0,0,0,0.9);
+border-radius:10px;
+color:orange;
+}
+
+
+
+table{border:double darkblue; border-width:8px; font-size:30px;}
+th{background-color:green; color:yellow; width:500px;}
+#t1{background-color:orange; color:white;}
+#t2{background-color:teal; color:cyan;}
+#t3{background-color:orange; color:white;}
+#t4{background-color:teal; color:cyan;}
+#t5{background-color:orange; color:white;}
+
+#b
+{
+background:rgba(50,0,0,0.9);
+border-radius:20px;
+border:double coral;
+font-size:28px;
+}
